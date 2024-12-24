@@ -1,3 +1,10 @@
+# NOTE
+Any { I, me, my } in the document below is from [Pomle](https://github.com/pomle) (AKA [Meth Meth Method](https://github.com/meth-meth-method)).
+I (FiveEsses) am leaving as much of this as possible as-is, and maybe won't even modify things.
+Also -- If you get some crazy idea to fork or star this repo, I'd encourage you please to target the original instead.
+You can find that here [https://github.com/meth-meth-method/super-mario](https://github.com/meth-meth-method/super-mario).
+Also, there are some things about this code which may make more sense if you have a look at [his youtube series, Code Super Mario in JS](https://www.youtube.com/playlist?list=PLS8HfBXv9ZWWe8zXrViYbIM2Hhylx8DZx), so please have a look at that; like and subscribe him and so forth.
+
 # Code Super Mario Bros. in JavaScript
 
 Create a Super Mario game in vanilla JavaScript from scratch. 
